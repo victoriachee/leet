@@ -1,0 +1,19 @@
+# More questions
+- Reverse a string in-place.
+- Check if a string is a palindrome.
+- Implement strstr() (substring search).
+- Determine if two strings are anagrams.
+- Implement atoi() (convert string to integer).
+- Convert a Roman numeral to an integer.
+- Count and Say sequence generation.
+- Implement regular expression matching.
+- Perform basic string compression.
+- Longest common prefix among an array of strings.
+- Implement a simple text editor with undo/redo.
+- Decode ways (decode ways a message can be encoded).
+- Implement a basic regular expression parser.
+- Longest palindromic substring in a string.
+- Generate all possible valid IP addresses from a string.
+- Implement strstr() (substring search) with wildcard support.
+- Implement the Rabin-Karp algorithm for string searching.
+- Perform URL encoding and decoding.

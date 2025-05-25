@@ -1,0 +1,22 @@
+# More questions
+  - Sort an array of integers in non-decreasing order
+  - Sort an array of intervals based on start or end points.
+  - Find k smallest/largest elements in an array.
+  - Sort an array of strings lexicographically.
+  - Implement bubble sort.
+  - Apply insertion sort to an array.
+  - Use selection sort algorithm on an array.
+  - Implement merge sort algorithm.
+  - Apply quicksort algorithm.
+  - Sort an array using heap sort.
+  - Apply counting sort algorithm.
+  - Implement radix sort algorithm.
+  - Sort an array of custom objects based on a property.
+  - Implement in-place merge sort.
+  - Sort an array in a wave-like pattern.
+  - Merge two sorted arrays into a single sorted array.
+  - Implement efficient stable sorting.
+  - Sort an array with 0s, 1s, and 2s (Dutch National Flag).
+  - Implement external sorting for large datasets.
+  - Sort an array with duplicate elements without extra space.
+  - Sort an array using comb sort algorithm.

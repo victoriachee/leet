@@ -1,0 +1,21 @@
+# More questions
+- Find height of a binary tree.
+- Check if a binary tree is balanced.
+- Invert a binary tree.
+- Validate a binary search tree (BST).
+- Convert BST to sorted doubly linked list.
+- Serialize and deserialize a binary tree.
+- Check if a tree is a subtree of another.
+- Find the diameter of a binary tree.
+- Flatten a binary tree into a linked list.
+- Validate if a tree is a complete binary tree.
+- Find the maximum depth of a binary tree.
+- Construct a tree from preorder and inorder traversal.
+- Print nodes at distance k from a given node.
+- Convert a BST to a greater sum tree.
+- Check if two binary trees are identical.
+- Recover a BST from swapped nodes.
+- Find the lowest common ancestor in a binary tree.
+- Print leaf nodes of a binary tree.
+- Find the sum of all left leaves in a binary tree.
+- Count nodes in a complete binary tree.

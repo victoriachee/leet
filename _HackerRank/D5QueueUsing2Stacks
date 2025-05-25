@@ -1,0 +1,95 @@
+import java.util.Stack;
+
+/**
+ * Implementation of a queue using two stacks.
+ *
+ * @param <T> The type of elements stored in the queue.
+ */
+public class D5QueueUsing2Stacks<T> {
+    private Stack<T> stack1; // For enqueue operation
+    private Stack<T> stack2; // For dequeue operation
+
+    /**
+     * Constructs an empty queue using two stacks.
+     */
+    public QueueUsingTwoStacks() {
+        stack1 = new Stack<>();
+        stack2 = new Stack<>();
+    }
+
+    /**
+     * Enqueues an element into the queue.
+     *
+     * @param item The element to be enqueued.
+     */
+    public void enqueue(T item) {
+        stack1.push(item);
+    }
+
+    /**
+     * Dequeues an element from the queue.
+     *
+     * @return The dequeued element.
+     * @throws IllegalStateException if the queue is empty.
+     */
+    public T dequeue() {
+        // Check if the queue is empty
+        if (isEmpty()) {
+            throw new IllegalStateException("Queue is empty");
+        }
+
+        // If stack2 is empty, transfer elements from stack1
+        if (stack2.isEmpty()) {
+            while (!stack1.isEmpty()) {
+                stack2.push(stack1.pop());
+            }
+        }
+
+        return stack2.pop(); // Pop the front element from stack2 (dequeued element)
+    }
+
+    /**
+     * Checks if the queue is empty.
+     *
+     * @return true if the queue is empty, false otherwise.
+     */
+    public boolean isEmpty() {
+        return stack1.isEmpty() && stack2.isEmpty();
+    }
+
+    /**
+     * Gets the size of the queue.
+     *
+     * @return The number of elements in the queue.
+     */
+    public int size() {
+        return stack1.size() + stack2.size();
+    }
+
+    /**
+     * Main method for testing the QueueUsingTwoStacks implementation.
+     *
+     * @param args The command-line arguments (not used).
+     */
+    public static void main(String[] args) {
+        QueueUsingTwoStacks<Integer> queue = new QueueUsingTwoStacks<>();
+
+        // Enqueue elements
+        queue.enqueue(1);
+        queue.enqueue(2);
+        queue.enqueue(3);
+
+        // Dequeue elements
+        System.out.println(queue.dequeue()); // Output: 1
+        System.out.println(queue.dequeue()); // Output: 2
+
+        // Enqueue more elements
+        queue.enqueue(4);
+        queue.enqueue(5);
+
+        // Dequeue remaining elements
+        System.out.println(queue.dequeue()); // Output: 3
+        System.out.println(queue.dequeue()); // Output: 4
+        System.out.println(queue.dequeue()); // Output: 5
+    }
+}

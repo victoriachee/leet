@@ -1,0 +1,17 @@
+# More examples
+- Remove duplicates from a sorted array.
+- Move all zeroes to the end of an array.
+- Find the first and last position of an element in a sorted array.
+- Find two elements in a sorted array that sum to a target.
+- Find three elements in an array that sum to zero.
+- Find a triplet in a sorted array that sums to a given value.
+- Merge two sorted arrays in-place.
+- Detect a cycle in an array.
+- Detect a cycle in a linked list.
+- Remove Nth node from the end of a linked list.
+- Reverse a linked list.
+- Check if a string is a palindrome.
+- Rearrange a string into a palindrome.
+- Find the longest substring without repeating characters.
+- Find the longest increasing subsequence.
+- Find the container with the most water.

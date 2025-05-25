@@ -1,0 +1,21 @@
+# More questions
+-  Implement a two-sum problem using a hash table.
+-  Check if two binary trees are equal using hashing.
+-  Detect a cycle in an undirected graph using hashing.
+-  Group anagrams from a list of strings using a hash map.
+-  Determine if there are duplicate elements within k distance in an array.
+-  Find the first non-repeating character in a string using a hash map.
+-  Find the longest substring without repeating characters using hashing.
+-  Find the longest consecutive sequence in an unsorted array using hashing.
+-  Find all pairs in an array that sum up to a specific target using hashing.
+-  Count the number of subarrays with a given sum using a hash map.
+-  Implement a four-sum problem using a hash table.
+-  Solve the anagram pair problem using hashing.
+-  Check if two strings are isomorphic using a hash map.
+-  Implement a hash function for strings.
+-  Design a hash table from scratch.
+-  Implement a simple hash set.
+-  Implement a hash-based data structure for constant-time lookup, insert, and delete operations.
+-  Design and implement a hash set with constant-time average insert, delete, and lookup operations.
+-  Implement a hash function for custom objects.
+-  Design and implement a LRU (Least Recently Used) cache using a hash map.

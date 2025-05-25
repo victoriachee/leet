@@ -1,0 +1,21 @@
+# More Questions
+-  Implement linear search algorithm.
+-  Apply binary search to find an element in a sorted array.
+-  Implement ternary search algorithm.
+-  Search for a peak element in an array.
+-  Find the missing element in a sorted array.
+-  Search for an element in a rotated sorted array.
+-  Implement interpolation search algorithm.
+-  Find the square root of a number using binary search.
+-  Implement exponential search algorithm.
+-  Search for the first and last occurrence of an element in a sorted array.
+-  Implement jump search algorithm.
+-  Search for an element in a 2D matrix.
+-  Apply Fibonacci search to find an element in a sorted array.
+-  Implement an algorithm to perform approximate string matching using searching techniques.
+-  Search for the majority element in an array.
+-  Find the peak element in a 2D array.
+-  Implement a search algorithm for a substring in a given text.
+-  Search for the element with the maximum frequency in an array.
+-  Implement a search algorithm for a specific pattern in a given text.
+-  Search for the longest prefix that is also a suffix in a given string.

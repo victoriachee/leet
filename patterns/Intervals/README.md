@@ -1,0 +1,21 @@
+# More questions
+  - Merge overlapping intervals in a collection.
+  - Find the minimum number of intervals to remove to make the rest non-overlapping.
+  - Determine if two intervals intersect.
+  - Merge new intervals into an existing set of non-overlapping intervals.
+  - Find the total coverage of a set of intervals.
+  - Determine if a point is within any interval.
+  - Find the maximum number of overlapping intervals at any given point.
+  - Implement an algorithm for interval intersection.
+  - Check if a set of intervals forms a complete coverage.
+  - Find the shortest supersequence that covers a set of intervals.
+  - Design an efficient data structure for interval queries.
+  - Implement an algorithm to partition intervals into disjoint sets.
+  - Check if a point is covered by any interval in a given set.
+  - Find the largest gap between intervals.
+  - Implement an algorithm to handle interval queries with updates.
+  - Determine the smallest set of intervals that covers a given range.
+  - Merge intervals in a sorted array or list.
+  - Design an algorithm for batch processing of overlapping intervals.
+  - Find the kth smallest or largest element in a set of intervals.
+  - Check if a set of intervals forms a valid calendar schedule.

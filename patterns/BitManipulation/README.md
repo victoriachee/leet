@@ -1,0 +1,21 @@
+# More questions
+- Find the bitwise AND of a range of numbers.
+- Count the number of set bits (1s) in an integer.
+- Determine if a number is a power of two.
+- Check if a given number is a power of four.
+- Swap two numbers without using additional memory.
+- Reverse the bits of an integer.
+- Compute the parity of a number.
+- Check if a number has alternating bits.
+- Count the total set bits from 1 to N in all numbers.
+- Find the single non-repeating element in an array.
+- Count the number of bits needed to convert A to B.
+- Generate all possible subsets of a set using bit manipulation.
+- Check if a number is a palindrome in binary representation.
+- Count the number of bits set in an integer's binary representation.
+- Compute the bitwise OR of all elements in an array.
+- Determine if a binary number is a palindrome.
+- Count the number of 1s in the binary representation of a number.
+- Sum of two integers without using the '+' operator.
+- Find the maximum XOR of two numbers in an array.
+- Implement a simple bloom filter using bitwise operations.
